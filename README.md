@@ -12,7 +12,7 @@
 
 ## 🔍 Overview
 
-This repository contains a ROS application that uses c++ and OpenCV to detect a specific color in the scene and move the TurtleBot3 Waffle towards the color target.
+This repository contains a ROS application that uses C++ and OpenCV to detect a specific color in the scene and move the TurtleBot3 Waffle towards the color target.
 
 > [!NOTE]
 >This is one of the exercises I use to introduce Computer Vision with ROS to students.
